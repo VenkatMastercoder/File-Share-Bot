@@ -72,14 +72,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-
-## Support   
-Join Our [Telegram Group](https://telegram.me/Mo_Tech_Group) For Support/Assistance.     
-
-### Credits
-
-- Thanks To [CodeXBotz](https://t.me/CodeXBotz) & [MoTech](https://t.me/Mo_Tech_YT)
-
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
