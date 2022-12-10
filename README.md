@@ -8,7 +8,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Mo_Tech_Group](https://telegram.me/Mo_Tech_Group)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@venkat2535](https://telegram.me/venkat2535)**
 
 ### Features
 - Fully customisable.
